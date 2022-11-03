@@ -1,16 +1,37 @@
-### Hi there 👋
+CS study
+<table>
+<tr>
+    <td align="center"><a href="https://github.com/sumin9403"><img src="https://github.com/sumin9403.png" width="100px;" alt=""/><br /><sub><b>수민</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/hwanny7"><img src="https://github.com/hwanny7.png" width="100px;" alt=""/><br /><sub><b>승환</b></sub></a><br /></td>
+       <td align="center"><a href="https://github.com/jonghopark1014"><img src="https://github.com/jonghopark1014.png" width="100px;" alt=""/><br /><sub><b>종호</b></sub></a><br /></td>      
+    <td align="center"><a href="https://github.com/dostiny"><img src="https://github.com/dostiny.png" width="100px;" alt=""/><br /><sub><b>도겸</b></sub></a><br /></td>      
+    <td align="center"><a href="https://github.com/yuha0513"><img src="https://github.com/yuha0513.png" width="100px;" alt=""/><br /><sub><b>유하</b></sub></a><br /></td>     
+    <td align="center"><a href="https://github.com/ki-ra"><img src="https://github.com/ki-ra.png" width="100px;" alt=""/><br /><sub><b>기라</b></sub></a><br /></td>   
+    <td align="center"><a href="https://github.com/gmkim716"><img src="https://github.com/gmkim716.png" width="100px;" alt=""/><br /><sub><b>경민</b></sub></a><br /></td>  
+    <td align="center"><a href="https://github.com/eunjijilong"><img src="https://github.com/eunjijilong.png" width="100px;" alt=""/><br /><sub><b>은지</b></sub></a><br /></td>  
+  </tr>
+</td>  
+    <td align="center"><a href="https://github.com/doyeong96"><img src="https://github.com/doyeong96.png" width="100px;" alt=""/><br /><sub><b>도영</b></sub></a><br /></td>  
+    <td align="center"><a href="https://github.com/dongminYOUN"><img src="https://github.com/dongminYOUN.png" width="100px;" alt=""/><br /><sub><b>동민</b></sub></a><br /></td>     
+  </tr>
+</table>
 
-<!--
-**ssatudy/ssatudy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Algorithm Study
+<table>
+<tr>
+    <td align="center"><a href="https://github.com/sumin9403"><img src="https://github.com/sumin9403.png" width="100px;" alt=""/><br /><sub><b>수민</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/ryuwc"><img src="https://github.com/ryuwc.png" width="100px;" alt=""/><br /><sub><b>원창</b></sub></a><br /></td>
+       <td align="center"><a href="https://github.com/jonghopark1014"><img src="https://github.com/jonghopark1014.png" width="100px;" alt=""/><br /><sub><b>종호</b></sub></a><br /></td>      
+    <td align="center"><a href="https://github.com/dostiny"><img src="https://github.com/dostiny.png" width="100px;" alt=""/><br /><sub><b>도겸</b></sub></a><br /></td>      
+    <td align="center"><a href="https://github.com/jieunlee0106"><img src="https://github.com/jieunlee0106.png" width="100px;" alt=""/><br /><sub><b>지은</b></sub></a><br /></td>     
+        <td align="center"><a href="https://github.com/gmkim716"><img src="https://github.com/gmkim716.png" width="100px;" alt=""/><br /><sub><b>세진</b></sub></a><br /></td>  
+    <td align="center"><a href="https://github.com/ki-ra"><img src="https://github.com/ki-ra.png" width="100px;" alt=""/><br /><sub><b>기라</b></sub></a><br /></td>   
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    <td align="center"><a href="https://github.com/eunjijilong"><img src="https://github.com/eunjijilong.png" width="100px;" alt=""/><br /><sub><b>덕호</b></sub></a><br /></td>  
+  </tr>
+</td>  
+    <td align="center"><a href="https://github.com/doyeong96"><img src="https://github.com/doyeong96.png" width="100px;" alt=""/><br /><sub><b>도영</b></sub></a><br /></td>  
+    <td align="center"><a href="https://github.com/dongminYOUN"><img src="https://github.com/dongminYOUN.png" width="100px;" alt=""/><br /><sub><b>동민</b></sub></a><br /></td>     
+    <td align="center"><a href="https://github.com/dongminYOUN"><img src="https://github.com/dongminYOUN.png" width="100px;" alt=""/><br /><sub><b>동민</b></sub></a><br /></td>   
+  </tr>
+</table>
