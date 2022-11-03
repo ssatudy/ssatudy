@@ -24,7 +24,7 @@ Algorithm Study
        <td align="center"><a href="https://github.com/jonghopark1014"><img src="https://github.com/jonghopark1014.png" width="100px;" alt=""/><br /><sub><b>종호</b></sub></a><br /></td>      
     <td align="center"><a href="https://github.com/dostiny"><img src="https://github.com/dostiny.png" width="100px;" alt=""/><br /><sub><b>도겸</b></sub></a><br /></td>      
     <td align="center"><a href="https://github.com/jieunlee0106"><img src="https://github.com/jieunlee0106.png" width="100px;" alt=""/><br /><sub><b>지은</b></sub></a><br /></td>     
-        <td align="center"><a href="https://github.com/sodamm916"><img src="https://github.com/sodamm916.png" width="100px;" alt=""/><br /><sub><b>세진</b></sub></a><br /></td>  
+        <td align="center"><a href="https://github.com/sodam916"><img src="https://github.com/sodam916.png" width="100px;" alt=""/><br /><sub><b>세진</b></sub></a><br /></td>  
     <td align="center"><a href="https://github.com/ki-ra"><img src="https://github.com/ki-ra.png" width="100px;" alt=""/><br /><sub><b>기라</b></sub></a><br /></td>   
     <td align="center"><a href="https://github.com/doyeong96"><img src="https://github.com/doyeong96.png" width="100px;" alt=""/><br /><sub><b>도영</b></sub></a><br /></td>  
     <td align="center"><a href="https://github.com/dongminYOUN"><img src="https://github.com/dongminYOUN.png" width="100px;" alt=""/><br /><sub><b>동민</b></sub></a><br /></td>     
