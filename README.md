@@ -17,7 +17,7 @@ CS study - CS_STUDY Repository
   </tr>
 </table>
 
-Algorithm Study - {name}_AlgoStudy
+Algorithm Study - Name_AlgoStudy Repository
 <table>
 <tr>
     <td align="center"><a href="https://github.com/sumin9403"><img src="https://github.com/sumin9403.png" width="100px;" alt=""/><br /><sub><b>수민</b></sub></a><br /></td>
